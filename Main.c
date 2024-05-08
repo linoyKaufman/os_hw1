@@ -16,7 +16,7 @@ int divisionbyzero (int n)
 void memoryproblem (int n)
 {
     int *pointer = NULL;
-    printf("%d", pointer);
+    printf("%p", pointer);
 }
 int main (){
 
